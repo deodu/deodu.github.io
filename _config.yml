@@ -85,9 +85,9 @@ author:
   bio              : "BGG Program UPenn"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Di-Ao+Liu"
+  googlescholar    : "https://scholar.google.com/citations?user=w_05E7IAAAAJ&hl=zh-CN"
+  email            : "liudiao@sas.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
