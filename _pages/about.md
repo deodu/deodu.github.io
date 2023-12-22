@@ -20,7 +20,7 @@ My rearch aims for the understanding of basic cell biology underlying the biogen
 
 ![Exosometrafficking model](/images/exosometrafficking.png)
 
-(2) The exosome biology in the tumor microenvrionment and the response to [mechanical cues](https://www.nature.com/articles/s41556-023-01092-1). This study reveals that the stiff ECM (extracellular matrix) of the liver tumor is an environmental cue to promote the release of exosomes and the activation of the NOTCH signaling in tumors. The work has been highlited in the top of the Nature collection list of ["Extracellualr Vesicle" basic mechanisms](https://www.nature.com/collections/hjjfdgedbg) and provide an answer to another key question about ECM-Exosome crosstalk [Box1 Qline2 & 5](https://www.nature.com/articles/s41580-022-00460-3). 
+(2) The exosome biology in the tumor microenvrionment and the response to [mechanical cues](https://www.nature.com/articles/s41556-023-01092-1). This study reveals that the stiff ECM (extracellular matrix) of the liver tumor is an environmental cue to promote the release of exosomes and the activation of the NOTCH signaling in tumors. The work has been highlited as the top research of ["Extracellualr Vesicle --- basic mechanisms"](https://www.nature.com/collections/hjjfdgedbg) and in [NCB News](https://www.nature.com/articles/s41556-023-01088-x). and provide an answer to another key question about ECM-Exosome crosstalk [Box1 Qline2 & 5](https://www.nature.com/articles/s41580-022-00460-3). 
 
 ![Exosome and ECM](/images/stiffnessexosomemodel.png)
 
@@ -32,6 +32,6 @@ I received my B.S. degree in Biology from [School of Biology](https://lifescienc
 Contact
 ------
 
-I am actively looking for positions now! Please contact me through liudiao@sas.upenn.edu or liudiao37@gmail.com.
+I am actively looking for positions now! Please contact me through liudiao@sas.upenn.edu or liudiao37@gmail.com if you are recruiting young scientists like me \(^o^)/~.
 
 
