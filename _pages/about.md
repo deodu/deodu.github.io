@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Always think outside the box"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am Di-Ao Liu, a 6th year graduate researcher and cell biologist in the [Department of biology at UPenn](https://www.bio.upenn.edu/). I have been studying extracellular vesicles, membrane trafficking, artificial cell culturing system, and omics in a research lab supervised by Prof. [Wei Guo](https://www.bio.upenn.edu/people/wei-guo). 
 
-A data-driven personal website
+My rearch focuses on the understanding of basic cell biology underlying the biogenesis of exosomes. Specifically, I focused on (1) The exocytic factors that turns MVEs (multivesicular endosomes) to secretory organelles as exosomes. This has been listed as a key questions in the field of extracellular vesicle [Box1 Qline3 & 4](https://www.nature.com/articles/s41580-022-00460-3). We proposed a mechanism that the subpopulations of MVEs [switch their phosphoinositides](https://www.nature.com/articles/s41467-023-42661-0) to recruit exocytic factors such as Rabs and exocysts. (2) The exosome biology in the tumor microenvrionment and the response to [mechanical cues](https://www.nature.com/articles/s41556-023-01092-1). This study reveals that the stiff ECM (extracellular matrix) of the liver tumor is an environmental cue to promote the release of exosomes and the activation of the NOTCH signaling in tumors. The work has been highlited in the top of the Nature collection list of ["Extracellualr Vesicle" basic mechanisms](https://www.nature.com/collections/hjjfdgedbg) and provide an answer to another key question about ECM-Exosome crosstalk [Box1 Qline2 & 5](https://www.nature.com/articles/s41580-022-00460-3). 
+
+I rotated with Prof. [Hongjun Song](https://www.med.upenn.edu/songlab/) and performed scRNAseq studies of brain tumor organoids in parallel with their primary tumors as reported in [Cell](https://www.med.upenn.edu/songlab/assets/user-content/documents/Cell_Dec2019.pdf). 
+
+I received my B.S. degree in Biology from [School of Biology](https://lifesciences.sysu.edu.cn/) and Yat-sen School [Top Scientist Plan](http://en.moe.gov.cn/features/PressAndInterview/Pressreleases/202001/t20200117_415852.html) at SYSU as advised by Prof. [Jun Cui](https://www.researchgate.net/profile/Jun-Cui-10). 
+
+Contact
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
