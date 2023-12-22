@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Di-Ao --- the pride"
+title: "Di-Ao --- Pride Indeed"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
