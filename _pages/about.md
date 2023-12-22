@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Always think outside the box"
+title: "Di-Ao --- the pride"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
