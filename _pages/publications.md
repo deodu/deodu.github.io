@@ -9,7 +9,7 @@ author_profile: true
 <b>[A phosphoinositide switch mediates exocyst recruitment to multivesicular endosomes for exosome secretion.](https://www.nature.com/articles/s41467-023-42661-0)</b> <br><b>Liu DA</b>, Tao, K., Wu, B., Yu, Z., Szczepaniak, M., Rames, M., Yang, C., Svitkina, T., Zhu, Y., Nan, X., Guo, W.<br>
 <i>Nature Communications 2023.</i>
 
-<b>[Stiff matrix induces exosome secretion to promote tumour growth.](https://www.nature.com/articles/s41556-023-01092-1)</b> <br>Wu, B., <b>Liu DA</b>., Guan, L., Myint, P.K., Chin, L-K., Dang, H., Xu, Y., Ren, J., Li, T., Yu, Z., Jabban, S., Mills, G.B., Nukpezah, J., Chen, Y-H., Furth, E.F., Gimotty, P.A., Wells, R.G., Weaver, V.M., Radhakrishnan, R., Wang, X., Guo, W. <br>
+<b>[Stiff matrix induces exosome secretion to promote tumour growth.](https://www.nature.com/articles/s41556-023-01092-1)</b> <br>Wu, B *, <b>Liu DA *</b>, Guan, L *, Myint, P.K., Chin, L-K., Dang, H., Xu, Y., Ren, J., Li, T., Yu, Z., Jabban, S., Mills, G.B., Nukpezah, J., Chen, Y-H., Furth, E.F., Gimotty, P.A., Wells, R.G., Weaver, V.M., Radhakrishnan, R., Wang, X., Guo, W. <br>
 <i>Nature Cell Biology 2023.</i>
 
 <b>[Determine the Function of the Exocyst in Vesicle Tethering by Ectopic Targeting.](https://link.springer.com/protocol/10.1007/978-1-0716-2209-4_6)</b> <br>K Mei, <b>DA Liu</b>, W Guo. <br>
