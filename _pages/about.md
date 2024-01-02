@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Di-Ao --- Pride Indeed"
+title: "Di-Ao is Pride"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,11 +16,11 @@ I am Di-Ao Liu, a 6th year graduate researcher and cell biologist in the [Depart
 Research
 ------
 My rearch aims for the understanding of basic cell biology underlying the biogenesis of exosomes. Specifically, I focus on 
-(1) The exocytic factors that turns MVEs (multivesicular endosomes) to secretory organelles as exosomes. This has been listed as a key questions in the field of extracellular vesicle [Box1 Qline3 & 4](https://www.nature.com/articles/s41580-022-00460-3). We proposed a mechanism that the subpopulations of MVEs [switch their phosphoinositides](https://www.nature.com/articles/s41467-023-42661-0) to recruit exocytic factors such as Rabs and exocysts. 
+(1) The exocytic factors that turns MVEs (multivesicular endosomes) to secretory organelles as exosomes. This has been listed as a key questions in the field of extracellular vesicle [Box1 Qline3 & 4](https://www.nature.com/articles/s41580-022-00460-3). We proposed a mechanism that the subpopulations of MVEs switch their phosphoinositides [Nat Comm 2023](https://www.nature.com/articles/s41467-023-42661-0) to recruit exocytic factors such as Rabs and exocysts. 
 
 ![Exosometrafficking model](/images/exosometrafficking.png)
 
-(2) The exosome biology in the tumor microenvrionment and the response to [mechanical cues](https://www.nature.com/articles/s41556-023-01092-1). This study reveals that the stiff ECM (extracellular matrix) of the liver tumor is an environmental cue to promote the release of exosomes and the activation of the NOTCH signaling in tumors. The work has been highlited as the top research of ["Extracellualr Vesicle --- basic mechanisms"](https://www.nature.com/collections/hjjfdgedbg) and in [NCB News](https://www.nature.com/articles/s41556-023-01088-x). and provide an answer to another key question about ECM-Exosome crosstalk [Box1 Qline2 & 5](https://www.nature.com/articles/s41580-022-00460-3). 
+(2) The exosome biology in the tumor microenvrionment and the response to mechanical cues [Nat Cell Bio 2023](https://www.nature.com/articles/s41556-023-01092-1). This study reveals that the stiff ECM (extracellular matrix) of the liver tumor is an environmental cue to promote the release of exosomes and the activation of the NOTCH signaling in tumors. The work has been highlited as the top research of ["Extracellualr Vesicle --- basic mechanisms"](https://www.nature.com/collections/hjjfdgedbg) and in [NCB News](https://www.nature.com/articles/s41556-023-01088-x) and provide an answer to another key question about ECM-Exosome crosstalk [Box1 Qline2 & 5](https://www.nature.com/articles/s41580-022-00460-3). 
 
 ![Exosome and ECM](/images/stiffnessexosomemodel.png)
 
