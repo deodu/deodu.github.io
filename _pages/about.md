@@ -16,7 +16,7 @@ I am Di-Ao Liu, a 6th year graduate researcher and cell biologist in the [Depart
 Research
 ------
 My rearch aims for the understanding of basic cell biology underlying the biogenesis of exosomes. Specifically, I focus on 
-(1) The exocytic factors that turns MVEs (multivesicular endosomes) to secretory organelles as exosomes. This has been listed as a key questions in the field of extracellular vesicle [Box1 Qline3 & 4](https://www.nature.com/articles/s41580-022-00460-3). We proposed a mechanism that the subpopulations of MVEs switch their phosphoinositides [(Nat Comm 2023)](https://www.nature.com/articles/s41467-023-42661-0) to recruit exocytic factors such as Rabs and exocysts. 
+(1) The exocytic factors that turns MVEs (multivesicular endosomes) to secretory organelles as exosomes. This has been listed as a key question in the field of extracellular vesicle [Box1 Qline3 & 4](https://www.nature.com/articles/s41580-022-00460-3). We proposed a mechanism that the subpopulations of MVEs switch their phosphoinositides [(Nat Comm 2023)](https://www.nature.com/articles/s41467-023-42661-0) to recruit exocytic factors such as Rabs and exocysts. 
 
 ![Exosometrafficking model](/images/exosometrafficking.png)
 
