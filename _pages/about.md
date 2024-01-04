@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-I am Di-Ao Liu, a 6th year graduate researcher and cell biologist in the [Department of biology at UPenn](https://www.bio.upenn.edu/). I have been studying extracellular vesicles, membrane trafficking, artificial cell culturing system, and omics in a research lab supervised by Prof. [Wei Guo](https://www.bio.upenn.edu/people/wei-guo). 
+I am Di-Ao Liu, a 6th year graduate researcher and cell biologist in the [Department of biology at UPenn](https://www.bio.upenn.edu/). I study extracellular vesicles, membrane trafficking, artificial cell culturing system, and omics in a research lab supervised by Prof. [Wei Guo](https://www.bio.upenn.edu/people/wei-guo). 
 
 
 Research
