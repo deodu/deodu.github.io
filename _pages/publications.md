@@ -6,6 +6,9 @@ author_profile: true
 
 <br>
 
+<b>[Activated T cell extracellular vesicle DNA transfer enhances antigen presentation and anti-tumor immunity.](https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00177-7)</b> <br> Hu M, <b>Liu DA</b>, Wortzel I ..., and David Lyden<br>
+<i>Cancer Cell 2026.</i>
+
 <b>[A phosphoinositide switch mediates exocyst recruitment to multivesicular endosomes for exosome secretion.](https://www.nature.com/articles/s41467-023-42661-0)</b> <br><b>Liu DA</b>, Tao, K., Wu, B., Yu, Z., Szczepaniak, M., Rames, M., Yang, C., Svitkina, T., Zhu, Y., Nan, X., Guo, W.<br>
 <i>Nature Communications 2023.</i>
 
