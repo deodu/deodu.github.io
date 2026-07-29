@@ -20,7 +20,9 @@ My rearch aims for the understanding of basic cell biology underlying the biogen
 
 ![Exosometrafficking model](/images/Figure3new.jpg)
 
-(2) Ongoing: The biogenesis of exomere particles. I am using CRISPRi-based screening, multiomics turbo-ID labeling, and biochemical analysis to define candidates that regulate the biogenesis of exomere, a type of small particle ranging around 15-30nm. 
+(2) Ongoing: The biogenesis of exomere particles. I am using CRISPRi-based screening, multiomics turbo-ID labeling, and biochemical analysis to define candidates that regulate the biogenesis of exomere, a type of small particle around 35nm. 
+
+
 
 
 I am also interested in how extracellular vesicles and particles mediate the crosstalk between cancer cells and immune cells. 
@@ -29,11 +31,11 @@ I am also interested in how extracellular vesicles and particles mediate the cro
 
 ![Exosome and ECM](/images/stiffnessexosomemodel.png)
 
-(2) T cell extracellular vesicles and particles. We reveal a previously unrecognized way that activated T cells can transfer genetic material to other cells—helping the immune system better recognize and fight cancer and potentially inspiring a new generation of safer, non-viral tools for delivering genetic therapies. [ATEV](https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00177-7)  
-
-(3) Ongoing: Multicellular Oncogene Persistence Driven by Escaped Extracellular ecDNA. I am studying how large circular ecDNA derived from cancer cells could evade the nucleus and get packaged into extracellular vesicles and particles. EVP-ecDNA could drive stable multicellular oncogene dynamics, which make oncogene "infectious" in the tumor microenvironment.
+(2) T cell extracellular vesicles and particles. We reveal a previously unrecognized way that activated T cells can transfer genetic material to other cells—helping the immune system better recognize and fight cancer and potentially inspiring a new generation of safer, non-viral tools for delivering genetic therapies. [ATEV](https://www.cell.com/cancer-cell/fulltext/S1535-6108(26)00177-7)  [News](https://www.nature.com/articles/s41568-026-00942-y)
 
 ![ATEV and cancer](/images/ATEV.jpg)
+
+(3) Ongoing: Multicellular Oncogene Persistence Driven by Escaped Extracellular ecDNA. I am studying how large circular ecDNA derived from cancer cells could evade the nucleus and get packaged into extracellular vesicles and particles. EVP-ecDNA could drive stable multicellular oncogene dynamics, which make oncogene "infectious" in the tumor microenvironment.
 
 I rotated with Prof. [Hongjun Song](https://www.med.upenn.edu/songlab/) and performed scRNAseq studies of brain tumor organoids in parallel with their primary tumors as reported in [Cell](https://www.med.upenn.edu/songlab/assets/user-content/documents/Cell_Dec2019.pdf). 
 
