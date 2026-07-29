@@ -43,6 +43,6 @@ I received my B.S. degree in Biology from [School of Biology](https://lifescienc
 Contact
 ------
 
-I am actively looking for positions now! Please contact me through liudiao@sas.upenn.edu or liudiao37@gmail.com if you are recruiting young scientists like me \(^o^)/~.
+I am actively looking for positions now! Please contact me through dil4010@med.cornell.edu, liudiao@sas.upenn.edu, or liudiao37@gmail.com if you are recruiting young scientists like me \(^o^)/~.
 
 
