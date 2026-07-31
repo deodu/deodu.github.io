@@ -14,4 +14,4 @@ Education
 * B.S. in Biology, Sun Yat-sen University, 2018
 * Ph.D in Biology, University of Pennsylvania, 2024
   
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://deodu.github.io/files/DIAOLIUCV.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://deodu.github.io/files/DIAOLIU.pdf)
